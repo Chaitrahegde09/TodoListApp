@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodolistApp</string>
+    <string name="task_hint">What do you need to do?</string>
+    <string name="add_task">Add Task</string>
+</resources>
